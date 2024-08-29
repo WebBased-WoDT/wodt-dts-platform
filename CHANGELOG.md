@@ -1,3 +1,12 @@
+## [1.1.16](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.15...1.1.16) (2024-08-29)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.7.2 ([71c6855](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/71c6855ccceac9a2b6cae7439274e379dbdc5d22))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.100 ([a458c28](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/a458c2839cf4b5a3f8c038d4309b0a10e4eac447))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.101 ([6e3f1c8](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/6e3f1c85fa64275840b9301efde45f06c1e9ae15))
+* **deps:** update plugin com.gradle.develocity to v3.18 ([546d248](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/546d248f7452fef2d4c0e67777fb7b676758a1cc))
+
 ## [1.1.15](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.14...1.1.15) (2024-08-23)
 
 ### Dependency updates
