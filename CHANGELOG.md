@@ -1,3 +1,17 @@
+## [1.1.17](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.16...1.1.17) (2024-09-14)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.9.0 ([fae8003](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/fae8003090c3b3221a6718ac8e882c5af6a4c746))
+* **deps:** update dependency gradle to v8.10.1 ([1d6baf5](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/1d6baf5b5d5efeac5345ce6254d9f9dd35e983a0))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.102 ([c79704c](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/c79704c9cf6d78e7e3b9a2cbde1f73b2b8a926b8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.103 ([541c7b1](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/541c7b10dafc8457915fb0d612ffb88990d0658f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.104 ([f86e632](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/f86e6320d45a7623df1feab7bc89f9d72a0318bc))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.105 ([cb96b1a](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cb96b1a10a735dbf379f9c9e06e3e15a95518df1))
+* **deps:** update plugin com.gradle.develocity to v3.18.1 ([1aa478d](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/1aa478d6e08209fbbb7c585d38cc93123350c6a7))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.10 ([56923a7](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/56923a7d4ca6b77a5c6206ba124971de5d5374ac))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.12 ([0f91563](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/0f9156360758569e6184716d4dde2340a7fa32b6))
+
 ## [1.1.16](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.15...1.1.16) (2024-08-29)
 
 ### Dependency updates
