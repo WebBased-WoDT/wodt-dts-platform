@@ -1,3 +1,21 @@
+## [1.1.18](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.17...1.1.18) (2024-09-18)
+
+### Dependency updates
+
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.106 ([40d0eac](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/40d0eac6dedd3164a04e23801d2d93d7ff92cd7b))
+
+### Bug Fixes
+
+* mapping to local urls in old relationship targets when a new dt is registered ([7a99a59](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/7a99a59610eb1aed02ba3794df959262d8b2b286))
+
+### Performance improvements
+
+* add retry logic on http client ([85fc6d5](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/85fc6d561e217fc1a5b525ab7f6fc32184e2ed62))
+
+### Tests
+
+* add tests for testing local urls mapping ([264e60e](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/264e60e14bb84dd3d4277a1f70c9f6d4d2734362))
+
 ## [1.1.17](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.16...1.1.17) (2024-09-14)
 
 ### Dependency updates
