@@ -1,3 +1,21 @@
+## [1.1.20](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.19...1.1.20) (2024-10-10)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.0.21 ([bb937f6](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/bb937f6111421c0e9f1580714813a62571021908))
+* **deps:** update dependency gradle to v8.10.2 ([33343c1](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/33343c184b78e28a6e897b6caa611428a29051d3))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.108 ([2a979cd](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/2a979cd2a46d4a191596a69d26690c9c00befc91))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.109 ([dec4388](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/dec438847299178aff975cf1683eec442c889844))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.110 ([3fc2600](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/3fc26004ec05136fc02d7349ccd16ea35f9fb07a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.111 ([a5950a9](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/a5950a9602089a6e1b667935e9751653bbed827e))
+* **deps:** update node.js to 20.18 ([8b1f7de](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/8b1f7de524acae51ea59ac4e18d1d97759e0084e))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.13 ([f16134e](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/f16134e684454404f3df1c042f3afa2d19cefa04))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.0.4 ([ea09b2f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/ea09b2f6a0e21e5a87d384e40de8dd37f07fc39b))
+* **deps:** update codecov/codecov-action action to v4.6.0 ([136a7f8](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/136a7f88f19b08aad8981809d954f16a428c14c7))
+
 ## [1.1.19](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.18...1.1.19) (2024-09-20)
 
 ### Dependency updates
