@@ -1,3 +1,24 @@
+## [1.2.0](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.20...1.2.0) (2024-10-28)
+
+### Features
+
+* support cors ([80d2911](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/80d291189b8091595f4e9b29393da3253ff2498c))
+
+### Dependency updates
+
+* **deps:** add ktor cors dependency ([17d218a](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/17d218a9977cca0f77e2946a209aa049d11dc6dd))
+* **deps:** update dependency org.apache.jena:apache-jena-libs to v5.2.0 ([dbcbf48](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/dbcbf4829beb5e2bf455312c7b7bfca40a72188f))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.112 ([843c243](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/843c243c2d0bdd801eacbe0e32ba0832bd3066bc))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.1.0 ([8da2e58](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/8da2e5821f8c4d4436233ec6d0c24b9bed8a00ba))
+* update documentation action ([fe73724](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/fe73724c9b09671dea547637f81954ad6f914fa7))
+
+### General maintenance
+
+* update idea dependency import style ([cc61b34](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cc61b34f4a45dea01b98dc424d6ad7f1757a013e))
+
 ## [1.1.20](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.19...1.1.20) (2024-10-10)
 
 ### Dependency updates
