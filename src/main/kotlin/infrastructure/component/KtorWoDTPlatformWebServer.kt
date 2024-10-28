@@ -19,10 +19,13 @@ package infrastructure.component
 import application.component.EcosystemManagementInterface
 import application.component.PlatformKnowledgeGraphEngineReader
 import application.component.WoDTPlatformWebServer
+import io.ktor.http.HttpHeaders
+import io.ktor.http.HttpMethod
 import io.ktor.server.application.Application
 import io.ktor.server.application.install
 import io.ktor.server.engine.embeddedServer
 import io.ktor.server.netty.Netty
+import io.ktor.server.plugins.cors.routing.CORS
 import io.ktor.server.websocket.WebSockets
 
 /**
@@ -44,6 +47,11 @@ class KtorWoDTPlatformWebServer(
 
     override fun start() {
         embeddedServer(Netty, port = this.exposedPort) {
+            install(CORS) {
+                anyHost()
+                allowMethod(HttpMethod.Options)
+                allowHeader(HttpHeaders.ContentType)
+            }
             install(WebSockets)
             dispatcher(this)
         }.start(wait = false)
