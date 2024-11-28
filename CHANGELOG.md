@@ -1,3 +1,25 @@
+## [1.2.1](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.0...1.2.1) (2024-11-28)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.1.0 ([c5bc506](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/c5bc50693490a81d13f3fb44a4bee6826e7d3b80))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.113 ([9470996](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/94709969780781bb1d4a88a7b6b54a7430f5678a))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.114 ([b9ff7a4](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/b9ff7a4f025e12c99ce743ccb43d3a479ace9cc8))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.115 ([a10e5a6](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/a10e5a6894e0c092a4416c6512bc8a317391f528))
+* **deps:** update ktor monorepo to v2.3.13 ([ccd4257](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/ccd42570c834b977fbac372fbdb6728d1c917ead))
+* **deps:** update node.js to v22 ([afa3514](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/afa351405677a43b63146c2ad25c4974ac98672d))
+* **deps:** update plugin com.gradle.develocity to v3.18.2 ([555b81b](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/555b81b856e2800761773161d9f12c6c2a1fdf9f))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.14 ([0e06264](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/0e062641b233b6c7b47102db1a12dd012f4aca00))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.15 ([2c37f4e](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/2c37f4e450b1559d7bd7b87aff6023ce7140f5e3))
+
+### Build and continuous integration
+
+* **deps:** update codecov/codecov-action action to v5 ([f9cf0bb](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/f9cf0bbadc3db424475fd8961146bf87458b6bb8))
+* **deps:** update codecov/codecov-action action to v5.0.2 ([3ca1374](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/3ca1374b4dbf1cb6c1920e697c356bd8c80132ef))
+* **deps:** update codecov/codecov-action action to v5.0.3 ([88b7cee](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/88b7cee1454f7556ef899a7d6b09b460c5156e0f))
+* **deps:** update codecov/codecov-action action to v5.0.6 ([ef9e1a4](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/ef9e1a4b7b5fff9f26df7981e8bcc85a066de221))
+* **deps:** update codecov/codecov-action action to v5.0.7 ([30c268d](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/30c268d1bcaa088f2fe1c3ff6eaa33af0174d628))
+
 ## [1.2.0](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.1.20...1.2.0) (2024-10-28)
 
 ### Features
