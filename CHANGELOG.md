@@ -1,3 +1,24 @@
+## [1.2.2](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.1...1.2.2) (2024-12-20)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.0 ([ec4e199](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/ec4e199a56686874ffb2f8f2cb4d8e7769bb54d7))
+* **deps:** update alpine docker tag to v3.21 ([db1d1b9](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/db1d1b9fe9395f82cf377d42725df763cb167383))
+* **deps:** update dependency io.github.oshai:kotlin-logging-jvm to v7.0.3 ([0882559](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/08825593a15bb6f63aad0329df44f63a90078aae))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.116 ([fb7e60f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/fb7e60f6e71b3c3336d21bdcd5ca9c175629a5d1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.117 ([1ab185c](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/1ab185c118941077101e3d604809c70941a3c3ce))
+* **deps:** update node.js to 22.12 ([75f25ff](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/75f25ff3e270af8583aa790ce23021c1976b4300))
+* **deps:** update plugin com.gradle.develocity to v3.19 ([e7a5c81](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/e7a5c81aac2d64ec1494973d9eb7cb7398b7b57c))
+* **deps:** update plugin dokka to v2 ([7cf2948](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/7cf29487aec2200886d8303ecae695ee149ebd83))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.16 ([d4de4fb](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/d4de4fb81d74c49f6f50cdcbdb01ce55485264ba))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.17 ([cf19ca6](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cf19ca60ddbd4303312c161a4a63c9298a4ddc70))
+
+### Build and continuous integration
+
+* **deps:** update codecov/codecov-action action to v5.1.0 ([5c46be3](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/5c46be3c47d36bcc2bb0223b6d96e7813e0a90d6))
+* **deps:** update codecov/codecov-action action to v5.1.1 ([02453d8](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/02453d82c2172bf01c92b078795c591654571376))
+* **deps:** update codecov/codecov-action action to v5.1.2 ([f422061](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/f422061b565a5feed1f2fd57a5f394dd5612b1bc))
+
 ## [1.2.1](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.0...1.2.1) (2024-11-28)
 
 ### Dependency updates
