@@ -1,3 +1,18 @@
+## [1.2.5](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.4...1.2.5) (2025-01-27)
+
+### Dependency updates
+
+* **core-deps:** update kotlin monorepo to v2.1.10 ([43b1f8f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/43b1f8faa070f4c96076941c0a00fb5082dbf594))
+* **deps:** update dependency org.apache.jena:apache-jena-libs to v5.3.0 ([4e02809](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/4e02809c91ddb9a2fd4c4eee0654b1e291703397))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.119 ([cad436c](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cad436c5b6dce3f74edeca9954b271a2cc3ee5bd))
+* **deps:** update node.js to 22.13 ([52f00ad](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/52f00add3387841bfbd854619d9c4f39547cf2e5))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.2.0 ([ce28e97](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/ce28e9757e87932a0bc7c32fe74bd565ad1776c5))
+* **deps:** update codecov/codecov-action action to v5.2.0 ([0adc5e1](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/0adc5e1eced41e9cdf1200002d35433859e5315d))
+* **deps:** update codecov/codecov-action action to v5.3.1 ([3530084](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/35300844bdd82fb159579cfc500d7ced90e61af8))
+
 ## [1.2.4](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.3...1.2.4) (2025-01-08)
 
 ### Dependency updates
