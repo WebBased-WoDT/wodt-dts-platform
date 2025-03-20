@@ -1,3 +1,28 @@
+## [1.2.6](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.5...1.2.6) (2025-03-20)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.1.20 ([c38b89f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/c38b89f7bbc2ee64cd9952b6529f54bada3969b2))
+* **deps:** update dependency com.tngtech.archunit:archunit-junit5 to v1.4.0 ([a1cbd48](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/a1cbd486e67517092426fd41325319b504b57d8c))
+* **deps:** update dependency io.github.oshai:kotlin-logging-jvm to v7.0.4 ([3927aab](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/3927aab2dbc3d5e3c5e700d8333c8ac7c1e8b27d))
+* **deps:** update dependency io.github.oshai:kotlin-logging-jvm to v7.0.5 ([c92a4c0](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/c92a4c0b0ef53febfe825681db02d95f0c75d58e))
+* **deps:** update dependency org.slf4j:slf4j-simple to v2.0.17 ([a5f2752](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/a5f275223e6f5d1abb3bb01c953a00192b601387))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.120 ([bc2837d](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/bc2837de5c8e0d93e59c1acdef58a11724eaa019))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.121 ([f8356f0](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/f8356f0f88f1d9a65e05085587a5c47b7ea45e78))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.122 ([1adff7f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/1adff7fcbba9f078c7adfb51a5202ca0cf1fcbc9))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.123 ([220fa5a](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/220fa5a9774b20a3b3735df4a2a7d6364597b8cd))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.124 ([2d880cd](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/2d880cd03d09488dd9d764df01bef4a8bad72ba1))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.125 ([5f43055](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/5f43055e428246e132253769a6f822caeb440261))
+* **deps:** update node.js to 22.14 ([18e63fe](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/18e63fe4c0caa6aeeb0fdaa62ace0d7937366313))
+* **deps:** update plugin com.gradle.develocity to v3.19.2 ([6d8829f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/6d8829f77dc44c7116f3e87c876cbf7cea47ca04))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.20 ([c6b6b1e](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/c6b6b1e8bef7313ee445fef40b1fdc73906ab5ce))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.21 ([9301eb4](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/9301eb46c85f31f263faad4b4d272f99f27580b2))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.3.0 ([2501fd8](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/2501fd8ecb64897d1ea8ec281656871739c9711d))
+* **deps:** update codecov/codecov-action action to v5.4.0 ([705b0e3](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/705b0e3846e0d7c310d11de9f67edf20445e5a8f))
+
 ## [1.2.5](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.4...1.2.5) (2025-01-27)
 
 ### Dependency updates
