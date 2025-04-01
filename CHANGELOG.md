@@ -1,3 +1,11 @@
+## [1.2.7](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.6...1.2.7) (2025-04-01)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.8.1 ([1027696](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/1027696f78a9e2af0a420d35a21082b9d72c4582))
+* **deps:** update dependency io.github.oshai:kotlin-logging-jvm to v7.0.6 ([2177f54](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/2177f541d33f0146ea2f228844f1bdb9eb784bb8))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.22 ([02676df](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/02676dfc17851365da65115a0531f4e69a18d458))
+
 ## [1.2.6](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.5...1.2.6) (2025-03-20)
 
 ### Dependency updates
