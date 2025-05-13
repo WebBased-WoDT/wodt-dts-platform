@@ -1,3 +1,22 @@
+## [1.2.9](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.8...1.2.9) (2025-05-13)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlin:kotlin-stdlib to v2.1.21 ([3ffa64f](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/3ffa64f9086603d338dcb3d4f81195a268245284))
+* **deps:** update dependency io.github.oshai:kotlin-logging-jvm to v7.0.7 ([9b16fcc](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/9b16fcc5b4cc71606d7d3b9662048b9ecf8c8e89))
+* **deps:** update dependency org.apache.jena:apache-jena-libs to v5.4.0 ([b9fffed](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/b9fffedb2c3dc9536b58d2d15e06cc9da9801323))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.126 ([2bb0795](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/2bb0795e2ef07df6b907efc2cfc6ed073d8caf51))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.127 ([36ff764](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/36ff764e452dc1cbed2015dae8b1f523c28d28ed))
+* **deps:** update node.js to 22.15 ([cc26603](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cc266034a6c8fab14f179159008c2f005a73a37f))
+* **deps:** update plugin com.gradle.develocity to v4 ([cc81626](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cc816269aaa002eb0ef0818e43b133724ed91678))
+* **deps:** update plugin com.gradle.develocity to v4.0.1 ([da40798](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/da40798c7576dfe22cabd14de911dae18c3aedfe))
+* **deps:** update plugin org.danilopianini.gradle-pre-commit-git-hooks to v2.0.23 ([c93904b](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/c93904b96f2b8b1ab450936c3cbb2994b99655dd))
+
+### Build and continuous integration
+
+* **deps:** update actions/setup-node action to v4.4.0 ([89cbdfc](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/89cbdfc24efe7bc35e3cbf2113bfed19d98abe43))
+* **deps:** update codecov/codecov-action action to v5.4.2 ([b888ce8](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/b888ce8d512c2512d06b12c2a02279203d25b50d))
+
 ## [1.2.8](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.7...1.2.8) (2025-04-09)
 
 ### Dependency updates
