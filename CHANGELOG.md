@@ -1,3 +1,21 @@
+## [1.2.10](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.9...1.2.10) (2025-06-28)
+
+### Dependency updates
+
+* **core-deps:** update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.9.0 ([99539a7](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/99539a7a64ab0109edc85b836b67441da4d5e0f7))
+* **deps:** update alpine docker tag to v3.22 ([ca8ae1a](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/ca8ae1a81df3abfc673e6114f144a30167c744eb))
+* **deps:** update dependency com.tngtech.archunit:archunit-junit5 to v1.4.1 ([a0280d9](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/a0280d9660e2f8c139103940df696d72e46eb31e))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.128 ([30df6bb](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/30df6bbedb96e4f2bc7503b6b8450b8b84246d34))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.130 ([322dbc3](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/322dbc35c8561b811eb8090e3c29c358b8e65521))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.131 ([dd9eff8](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/dd9eff8674d8b25728d68b26f9e8f3640c0c4c58))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.133 ([cb1ead0](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/cb1ead0014c452f0404760c5b5d80fa540964324))
+* **deps:** update dependency semantic-release-preconfigured-conventional-commits to v1.1.134 ([69c9470](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/69c94706dca7449a9d917caa3b4206073e08141a))
+* **deps:** update node.js to 22.17 ([1f423db](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/1f423dbff08fa32510264d50f6531d55288853d2))
+
+### Build and continuous integration
+
+* **deps:** update codecov/codecov-action action to v5.4.3 ([670e25d](https://github.com/WebBased-WoDT/wodt-dts-platform/commit/670e25dd3ee90d5bb51b29b28eb74f38d64bc30e))
+
 ## [1.2.9](https://github.com/WebBased-WoDT/wodt-dts-platform/compare/1.2.8...1.2.9) (2025-05-13)
 
 ### Dependency updates
